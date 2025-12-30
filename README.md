@@ -2,8 +2,6 @@
 
 A curated list of **Company-as-a-Service (CaaS)**, **Employer of Record (EOR)**, and **remote business platforms** to help build, manage, and operate companies globally.
 
-![We stand for Ukraine](https://github.com/sandrfunder/awesome-company-as-a-service/blob/main/image.png?raw=true)
-
 ## Contents
 - [Company-as-a-Service Platforms](#company-as-a-service-platforms)
 - [Employer of Record / Global HR](#employer-of-record--global-hr)
@@ -61,3 +59,5 @@ Guidelines:
 
 ## License
 This repository is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+![We stand for Ukraine](https://github.com/sandrfunder/awesome-company-as-a-service/blob/main/image.png?raw=true)

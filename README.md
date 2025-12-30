@@ -11,6 +11,7 @@ A curated list of **companies providing Company-as-a-Service (CaaS) platforms, E
 - [Employer of Record / Global HR](#employer-of-record--global-hr)
 - [Freelance & Contractor Platforms](#freelance--contractor-platforms)
 - [E-residency](#e-residency)
+- [Business & Tech Hubs / Startup Ecosystems](#business--tech-hubs--startup-ecosystems)
 - [Remote Work Tools](#remote-work-tools)
 - [Resources & Articles](#resources--articles)
 
@@ -46,6 +47,14 @@ Platforms for **freelancers and contractors**, handling contracts, payments, and
 Programs that allow you to **start and manage a company online** using digital residency in different countries.
 
 - [Estonia e-Residency](https://e-resident.gov.ee/) – A government-issued digital identity that lets non-Estonians **register and run a location-independent EU company online**, access banking and fintech services, sign documents digitally, and manage contracts.
+
+---
+
+## Business & Tech Hubs / Startup Ecosystems
+
+Platforms, programs, and legal frameworks that support business creation, innovation, and tech entrepreneurship.
+
+- [Diia.City (Ukraine)](https://diia.gov.ua/) – A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf?utm_source=chatgpt.com)
 
 ---
 

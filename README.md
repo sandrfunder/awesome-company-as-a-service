@@ -2,6 +2,7 @@
 
 
 A curated list of **companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, and remote business solutions** in Europe.  
+
 [![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
 
 ## Contents

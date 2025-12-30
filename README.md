@@ -1,9 +1,9 @@
-# Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-
+# Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
 
 A curated list of **companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, and remote business solutions** in Europe.  
+**We stand for Ukraine!**  
 
-[![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
+![We stand for Ukraine](https://github.com/sandrfunder/awesome-company-as-a-service/blob/main/image.png?raw=true)
 
 ## Contents
 - [Company-as-a-Service Platforms](#company-as-a-service-platforms)
@@ -21,6 +21,7 @@ Platforms that allow you to **create and manage companies remotely**, handle leg
 - [Enty](https://enty.io/) – Create and manage companies remotely.
 - [Firma.de](https://www.firma.de/en/) – European CaaS platform for startups and small businesses.
 - [Juuli](https://www.juuli.com/) – Startup-focused company services with global support.
+- [Xolo (Estonia)](https://www.xolo.io/) – Estonia-based CaaS platform for freelancers and entrepreneurs, providing company formation, banking, and compliance solutions.
 
 ---
 
@@ -36,6 +37,7 @@ Platforms that **hire, pay, and manage remote employees** globally while ensurin
 Platforms for **freelancers and contractors**, handling contracts, payments, and legal compliance.
 
 - [UseMe](https://useme.com/en/) – Freelance contracts and payments made easy.
+- [Solo (Romania)](https://solo.to/) – Romanian platform offering freelance contracts, invoicing, and payment management.
 
 ---
 

@@ -1,9 +1,10 @@
-# Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
+# Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of **companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, and remote business solutions** in Europe.  
 **We stand for Ukraine!**  
 
-![We stand for Ukraine](https://github.com/sandrfunder/awesome-company-as-a-service/blob/main/image.png?raw=true)
+[![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
+
 
 ## Contents
 - [Company-as-a-Service Platforms](#company-as-a-service-platforms)

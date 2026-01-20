@@ -1,10 +1,8 @@
 # Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of **companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, and remote business solutions** in Europe.  
-
+A curated list of **companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, invoicing solutions, and remote business tools** in Europe.  
 
 [![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
-
 
 ## Contents
 - [Company-as-a-Service Platforms](#company-as-a-service-platforms)
@@ -13,6 +11,7 @@ A curated list of **companies providing Company-as-a-Service (CaaS) platforms, E
 - [E-residency](#e-residency)
 - [Business & Tech Hubs / Startup Ecosystems](#business--tech-hubs--startup-ecosystems)
 - [Remote Work Tools](#remote-work-tools)
+- [Invoicing](#invoicing)
 - [Resources & Articles](#resources--articles)
 
 ---
@@ -51,7 +50,6 @@ Programs that allow you to **start and manage a company online** using digital r
 ---
 
 ## Business & Tech Hubs / Startup Ecosystems
-
 Platforms, programs, and legal frameworks that support business creation, innovation, and tech entrepreneurship.
 
 - [Diia.City (Ukraine)](https://diia.gov.ua/) – A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf?utm_source=chatgpt.com)
@@ -65,8 +63,17 @@ Tools to **manage teams, workflow, and productivity** for distributed companies.
 
 ---
 
+## Invoicing
+Platforms and tools to **create, send, and manage invoices**, track payments, and simplify financial operations for businesses.
+
+- [Invoice Ninja](https://invoiceninja.com/) – Open-source invoicing, payments, and expense management platform for freelancers and small businesses.
+- [Midday](https://midday.ai/) – AI-driven invoicing and finance management platform to automate invoicing and cash flow tracking.
+- [Dolibarr](https://www.dolibarr.org/) – Open-source ERP and CRM software that includes invoicing, accounting, and business management modules.
+
+---
+
 ## Resources & Articles
-Helpful resources, guides, and articles about CaaS, EOR, e-Residency, and remote business management.
+Helpful resources, guides, and articles about CaaS, EOR, invoicing, and remote business management.
 
 - Add relevant links here.
 

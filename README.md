@@ -70,6 +70,7 @@ Platforms and tools to **create, send, and manage invoices**, track payments, an
 - [Midday](https://midday.ai/) – AI-driven invoicing and finance management platform to automate invoicing and cash flow tracking.
 - [Dolibarr](https://www.dolibarr.org/) – Open-source ERP and CRM software that includes invoicing, accounting, and business management modules.
 - [Pureconto](https://pureconto.com/) – Free-forever invoicing software with professional design templates.
+- [Xolo](https://www.xolo.io/zz-en/free-invoice-generator/sales) – Free Invoice Generator for Freelancers
 
 ---
 

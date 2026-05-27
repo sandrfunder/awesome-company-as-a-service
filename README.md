@@ -29,30 +29,30 @@ Platforms that allow you to **create and manage companies remotely**, handle leg
 ## Employer of Record / Global HR
 Platforms that **hire, pay, and manage remote employees** globally while ensuring compliance.
 
-- [Deel](https://www.deel.com/) – Global EOR, payroll, and compliance.
-- [Native Teams](https://nativeteams.com/) – Remote team hiring and HR compliance platform.
+- [Deel](https://www.deel.com/) - Global EOR, payroll, and compliance.
+- [Native Teams](https://nativeteams.com/) - Remote team hiring and HR compliance platform.
 
 ---
 
 ## Freelance & Contractor Platforms
 Platforms for **freelancers and contractors**, handling contracts, payments, and legal compliance.
 
-- [Solo (Romania)](https://solo.to/) – Romanian platform offering freelance contracts, invoicing, and payment management.
-- [UseMe](https://useme.com/en/) – Freelance contracts and payments made easy.
+- [Solo (Romania)](https://solo.to/) - Romanian platform offering freelance contracts, invoicing, and payment management.
+- [UseMe](https://useme.com/en/) - Freelance contracts and payments made easy.
 
 ---
 
 ## E-residency
 Programs that allow you to **start and manage a company online** using digital residency in different countries.
 
-- [Estonia e-Residency](https://e-resident.gov.ee/) – A government-issued digital identity that lets non-Estonians **register and run a location-independent EU company online**, access banking and fintech services, sign documents digitally, and manage contracts.
+- [Estonia e-Residency](https://e-resident.gov.ee/) - A government-issued digital identity that lets non-Estonians **register and run a location-independent EU company online**, access banking and fintech services, sign documents digitally, and manage contracts.
 
 ---
 
 ## Business & Tech Hubs / Startup Ecosystems
 Platforms, programs, and legal frameworks that support business creation, innovation, and tech entrepreneurship.
 
-- [Diia.City (Ukraine)](https://diia.gov.ua/) – A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf?utm_source=chatgpt.com)
+- [Diia.City (Ukraine)](https://diia.gov.ua/) - A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf?utm_source=chatgpt.com)
 
 ---
 
@@ -66,11 +66,11 @@ Tools to **manage teams, workflow, and productivity** for distributed companies.
 ## Invoicing
 Platforms and tools to **create, send, and manage invoices**, track payments, and simplify financial operations for businesses.
 
-- [Invoice Ninja](https://invoiceninja.com/) – Open-source invoicing, payments, and expense management platform for freelancers and small businesses.
-- [Midday](https://midday.ai/) – AI-driven invoicing and finance management platform to automate invoicing and cash flow tracking.
-- [Dolibarr](https://www.dolibarr.org/) – Open-source ERP and CRM software that includes invoicing, accounting, and business management modules.
-- [Pureconto](https://pureconto.com/) – Free-forever invoicing software with professional design templates.
-- [Xolo](https://www.xolo.io/zz-en/free-invoice-generator/sales) – Free Invoice Generator for Freelancers
+- [Invoice Ninja](https://invoiceninja.com/) - Open-source invoicing, payments, and expense management platform for freelancers and small businesses.
+- [Midday](https://midday.ai/) - AI-driven invoicing and finance management platform to automate invoicing and cash flow tracking.
+- [Dolibarr](https://www.dolibarr.org/) - Open-source ERP and CRM software that includes invoicing, accounting, and business management modules.
+- [Pureconto](https://pureconto.com/) - Free-forever invoicing software with professional design templates.
+- [Xolo](https://www.xolo.io/zz-en/free-invoice-generator/sales) - Free Invoice Generator for Freelancers
 
 ---
 

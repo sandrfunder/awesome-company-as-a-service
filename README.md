@@ -19,10 +19,10 @@ A curated list of **companies providing Company-as-a-Service (CaaS) platforms, E
 ## Company-as-a-Service Platforms
 Platforms that allow you to **create and manage companies remotely**, handle legal paperwork, and operate businesses without setting up a local entity.
 
-- [Enty](https://enty.io/) – Create and manage companies remotely.
-- [Firma.de](https://www.firma.de/en/) – European CaaS platform for startups and small businesses.
-- [Juuli](https://www.juuli.com/) – Startup-focused company services with global support.
-- [Xolo (Estonia)](https://www.xolo.io/) – Estonia-based CaaS platform for freelancers and entrepreneurs, providing company formation, banking, and compliance solutions.
+- [Enty](https://enty.io/) - Create and manage companies remotely.
+- [Firma.de](https://www.firma.de/en/) - European CaaS platform for startups and small businesses.
+- [Juuli](https://www.juuli.com/) - Startup-focused company services with global support.
+- [Xolo (Estonia)](https://www.xolo.io/) - Estonia-based CaaS platform for freelancers and entrepreneurs, providing company formation, banking, and compliance solutions.
 
 ---
 
@@ -37,8 +37,8 @@ Platforms that **hire, pay, and manage remote employees** globally while ensurin
 ## Freelance & Contractor Platforms
 Platforms for **freelancers and contractors**, handling contracts, payments, and legal compliance.
 
-- [UseMe](https://useme.com/en/) – Freelance contracts and payments made easy.
 - [Solo (Romania)](https://solo.to/) – Romanian platform offering freelance contracts, invoicing, and payment management.
+- [UseMe](https://useme.com/en/) – Freelance contracts and payments made easy.
 
 ---
 
@@ -89,5 +89,4 @@ Guidelines:
 
 ---
 
-## License
-This repository is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+

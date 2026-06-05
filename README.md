@@ -56,12 +56,6 @@ Platforms, programs, and legal frameworks that support business creation, innova
 
 ---
 
-## Remote Work Tools
-Tools to **manage teams, workflow, and productivity** for distributed companies.
-
-- Add your entries here (e.g., project management, remote collaboration, communication tools).
-
----
 
 ## Invoicing
 Platforms and tools to **create, send, and manage invoices**, track payments, and simplify financial operations for businesses.

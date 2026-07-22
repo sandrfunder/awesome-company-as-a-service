@@ -11,7 +11,6 @@ A curated list of **companies providing Company-as-a-Service (CaaS) platforms, E
 - [E-residency](#e-residency)
 - [Business & Tech Hubs / Startup Ecosystems](#business--tech-hubs--startup-ecosystems)
 - [Invoicing](#invoicing)
-- [Resources & Articles](#resources--articles)
 
 ---
 

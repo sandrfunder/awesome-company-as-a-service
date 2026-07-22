@@ -51,7 +51,7 @@ Programs that allow you to **start and manage a company online** using digital r
 ## Business & Tech Hubs / Startup Ecosystems
 Platforms, programs, and legal frameworks that support business creation, innovation, and tech entrepreneurship.
 
-- [Diia.City (Ukraine)](https://diia.gov.ua/) - A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf?utm_source=chatgpt.com)
+- [Diia.City (Ukraine)](https://diia.gov.ua/) - A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf)
 
 ---
 
@@ -64,13 +64,6 @@ Platforms and tools to **create, send, and manage invoices**, track payments, an
 - [Dolibarr](https://www.dolibarr.org/) - Open-source ERP and CRM software that includes invoicing, accounting, and business management modules.
 - [Pureconto](https://pureconto.com/) - Free-forever invoicing software with professional design templates.
 - [Xolo](https://www.xolo.io/zz-en/free-invoice-generator/sales) - Free Invoice Generator for Freelancers.
-
----
-
-## Resources & Articles
-Helpful resources, guides, and articles about CaaS, EOR, invoicing, and remote business management.
-
-- Add relevant links here.
 
 ---
 

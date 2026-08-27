@@ -13,11 +13,9 @@ Thank you for considering contributing to this awesome list of Company-as-a-Serv
    - Freelance & Contractor platforms
    - E-residency programs
    - Business & Tech Hubs / Startup Ecosystems
-   - Remote Work Tools
    - Invoicing solutions
-   - Resources & Articles about CaaS, EOR, invoicing, and remote business management
 3. **Format your entry correctly** as:
-   - `[Name](URL) – Brief description`
+   - `- [Name](URL) - Brief description.`
 4. **Place it in the appropriate section** alphabetically
 5. **Update the Table of Contents** if you're adding a new section
 
@@ -25,8 +23,8 @@ Thank you for considering contributing to this awesome list of Company-as-a-Serv
 
 - **Name**: Use the official product/service name
 - **URL**: Link to the official website
-- **Description**: Keep it concise (one sentence if possible), factual, and free of promotional language
-- **Formatting**: Use en-dash (–) with spaces around it to separate the link from the description
+- **Description**: Keep it concise (one sentence if possible), factual, and free of promotional language. Start with an uppercase character and end with a period
+- **Formatting**: Use a hyphen (-) with spaces around it to separate the link from the description, as required by [awesome-lint](https://github.com/sindresorhus/awesome-lint)
 - **Alphabetical Order**: Entries within each section should be sorted alphabetically by name
 
 ### Pull Request Process
@@ -45,10 +43,6 @@ Thank you for considering contributing to this awesome list of Company-as-a-Serv
 - Entries that don't fit the defined categories
 - Broken or inaccessible links
 - Personal blogs or unofficial resources unless they provide significant value
-
-## Code of Conduct
-
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 ## Getting Help
 

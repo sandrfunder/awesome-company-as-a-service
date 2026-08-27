@@ -1,6 +1,6 @@
 # Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Company as a Service (CaaS) is a delivery model in which a provider takes over company formation, accounting, invoicing, payroll, and regulatory compliance on a subscription basis, so a business can be incorporated and operated remotely without a local office or in-house administrative staff. Adjacent models include Employer of Record (EOR) services, which hire and pay staff through the provider's own local entities, and e-residency programs, which issue a digital identity for running a company online. This list covers European providers and programs in these categories.
+Subscription services that handle company formation, invoicing, payroll, and compliance so a business can be incorporated and run remotely without a local entity.
 
 ## Contents
 - [Company-as-a-Service Platforms](#company-as-a-service-platforms)

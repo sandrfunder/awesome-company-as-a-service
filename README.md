@@ -1,8 +1,6 @@
 # Awesome Company as a Service [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of **companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, invoicing solutions, and remote business tools** in Europe.  
-
-[![We stand for Ukraine](https://img.shields.io/badge/We%20stand%20for-Ukraine-yellow?style=for-the-badge&logo=heart&logoColor=blue)](https://www.supportukraine.com)
+Company as a Service (CaaS) is a delivery model in which a provider takes over company formation, accounting, invoicing, payroll, and regulatory compliance on a subscription basis, so a business can be incorporated and operated remotely without a local office or in-house administrative staff. Adjacent models include Employer of Record (EOR) services, which hire and pay staff through the provider's own local entities, and e-residency programs, which issue a digital identity for running a company online. This list covers European providers and programs in these categories.
 
 ## Contents
 - [Company-as-a-Service Platforms](#company-as-a-service-platforms)
@@ -15,63 +13,57 @@ A curated list of **companies providing Company-as-a-Service (CaaS) platforms, E
 ---
 
 ## Company-as-a-Service Platforms
-Platforms that allow you to **create and manage companies remotely**, handle legal paperwork, and operate businesses without setting up a local entity.
+Platforms that create and manage companies remotely, handle legal paperwork, and operate businesses without setting up a local entity.
 
-- [Enty](https://enty.io/) - Create and manage companies remotely.
-- [Firma.de](https://www.firma.de/en/) - European CaaS platform for startups and small businesses.
-- [Juuli](https://www.juuli.com/) - Startup-focused company services with global support.
-- [Xolo (Estonia)](https://www.xolo.io/) - Estonia-based CaaS platform for freelancers and entrepreneurs, providing company formation, banking, and compliance solutions.
+- [Enty](https://enty.io/) - Back-office platform for company administration, contracts, invoicing, and accounting, primarily for Estonian and other EU entities.
+- [Firma.de](https://www.firma.de/en/) - Company formation and ongoing legal, tax, and accounting services for businesses in Germany.
+- [Juuli](https://www.juuli.com/) - Invoicing and contracting service for freelancers who bill clients without owning a company.
+- [Xolo](https://www.xolo.io/) - Company formation, banking, and compliance for freelancers and entrepreneurs, based in Estonia.
 
 ---
 
 ## Employer of Record / Global HR
-Platforms that **hire, pay, and manage remote employees** globally while ensuring compliance.
+Platforms that hire, pay, and manage remote employees globally while handling local employment compliance.
 
-- [Deel](https://www.deel.com/) - Global EOR, payroll, and compliance.
-- [Native Teams](https://nativeteams.com/) - Remote team hiring and HR compliance platform.
+- [Deel](https://www.deel.com/) - Employer of record, contractor management, and payroll across more than 100 countries.
+- [Native Teams](https://nativeteams.com/) - Employer of record, payroll, and work-payment services with a focus on Europe and the Balkans.
 
 ---
 
 ## Freelance & Contractor Platforms
-Platforms for **freelancers and contractors**, handling contracts, payments, and legal compliance.
+Platforms for freelancers and contractors that handle contracts, payments, and legal compliance.
 
-- [Solo (Romania)](https://solo.to/) - Romanian platform offering freelance contracts, invoicing, and payment management.
-- [UseMe](https://useme.com/en/) - Freelance contracts and payments made easy.
+- [Solo](https://www.solo.ro/) - Registration, invoicing, e-Factura integration, and accounting for Romanian sole traders (PFA and PFI).
+- [UseMe](https://useme.com/en/) - Polish service that lets freelancers invoice clients and receive payment without registering a business.
 
 ---
 
 ## E-residency
-Programs that allow you to **start and manage a company online** using digital residency in different countries.
+Programs that issue a digital identity for starting and managing a company online from abroad.
 
-- [Estonia e-Residency](https://e-resident.gov.ee/) - A government-issued digital identity that lets non-Estonians **register and run a location-independent EU company online**, access banking and fintech services, sign documents digitally, and manage contracts.
+- [Estonia e-Residency](https://e-resident.gov.ee/) - Government-issued digital identity that lets non-residents register and run a location-independent EU company online, sign documents digitally, and access banking and fintech services.
 
 ---
 
 ## Business & Tech Hubs / Startup Ecosystems
 Platforms, programs, and legal frameworks that support business creation, innovation, and tech entrepreneurship.
 
-- [Diia.City (Ukraine)](https://diia.gov.ua/) - A special legal and tax regime for IT and digital companies in Ukraine that offers favorable conditions for incorporation, taxation, and flexible cooperation, helping companies grow and attract investment.  [oai_citation:3‡Офіс реформ](https://rdo.in.ua/sites/default/files/govtech_5.pdf)
+- [Diia.City](https://city.diia.gov.ua/) - Special legal and tax regime for IT and digital companies registered in Ukraine, providing reduced tax rates, GIG contracts as an alternative hiring model, and English-law investment instruments.
 
 ---
 
-
 ## Invoicing
-Platforms and tools to **create, send, and manage invoices**, track payments, and simplify financial operations for businesses.
+Tools to create, send, and manage invoices, track payments, and simplify financial operations.
 
-- [Invoice Ninja](https://invoiceninja.com/) - Open-source invoicing, payments, and expense management platform for freelancers and small businesses.
-- [Midday](https://midday.ai/) - AI-driven invoicing and finance management platform to automate invoicing and cash flow tracking.
-- [Dolibarr](https://www.dolibarr.org/) - Open-source ERP and CRM software that includes invoicing, accounting, and business management modules.
-- [Pureconto](https://pureconto.com/) - Free-forever invoicing software with professional design templates.
-- [Xolo](https://www.xolo.io/zz-en/free-invoice-generator/sales) - Free Invoice Generator for Freelancers.
+- [Dolibarr](https://www.dolibarr.org/) - Open-source ERP and CRM with invoicing, accounting, and business management modules.
+- [Invoice Ninja](https://invoiceninja.com/) - Open-source invoicing, payments, and expense management for freelancers and small businesses.
+- [Midday](https://midday.ai/) - Invoicing, time tracking, and cash-flow reporting for freelancers and small teams.
+- [Pureconto](https://pureconto.com/) - Free invoicing software with a set of ready-made document templates.
+- [Xolo Invoice Generator](https://www.xolo.io/zz-en/free-invoice-generator/sales) - Free invoice generator for freelancers, with no account required.
 
 ---
 
 ## Contributing
-Contributions are welcome! Please submit a **pull request** or open an **issue** to suggest additions or improvements.  
-Guidelines:
-- Include the platform or program name, link, and a short description.
-- Categorize appropriately.
 
----
-
+Contributions are welcome. Read the [contribution guidelines](CONTRIBUTING.md) first.
 
